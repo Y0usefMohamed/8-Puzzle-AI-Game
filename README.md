@@ -27,6 +27,6 @@ Enjoy Playing !!!
 # Developers:
 1) Eng. Yousef Mohamed Hady
 2) Eng. Ahmed Ashraf Helmy
-# Links 
-Linkedin: https://www.linkedin.com/in/yousef-mohamed-hady/
-Github Acc: https://github.com/Y0usefMohamed
+# Links: 
+1. Linkedin: https://www.linkedin.com/in/yousef-mohamed-hady/ 
+2. Github Acc: https://github.com/Y0usefMohamed
