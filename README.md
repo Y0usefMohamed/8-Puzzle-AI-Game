@@ -2,7 +2,7 @@
 
 ## Technology used:
 1. Python
-2. tkinter For GUI
+2. Tkinter For GUI
 
 ## Algorithm used:
 
